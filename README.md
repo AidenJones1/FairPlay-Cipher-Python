@@ -4,9 +4,6 @@
 ### About
 Utilizes FairPlay Cipher to encrypt and decrypt messages
 
-### Installing Necessary Modules
-Enter the following command to install all the necessary modules to run the program: `pip install -r requirements.txt`
-
 ### How it works
 This project consists of three Python files:
 - FairplayCipherEncryption.py
